@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(135deg, #ffdbe6, #f5e6d3);
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    background: linear-gradient(90deg, #f7c6d9, #f5e6d3);
+}
+
+.btn-primary {
+    background-color: #f7c6d9;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #e9a9c3;
+}
+
+.card {
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.08);
+}
